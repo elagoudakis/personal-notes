@@ -23,3 +23,8 @@
   - Merged the "Update the Website" section into `CLAUDE.md`.
 - **2026-11-18** | Source: setup | Added Obsidian workspace state files (`.obsidian/workspace.json`, `.obsidian/workspace-mobile.json`) to `.gitignore`.
 - **2026-11-18** | Source: setup | Published the vault to github.com/elagoudakis/personal-notes (GitHub Pages via Actions). Set `site_url` in `mkdocs.yml` to https://dscape.gr/personal-notes/ to match the account custom domain.
+- **2026-11-18** | Source: `raw/New_Notes.md` (1 URL note) | Ingested 1 note:
+  - Added "PostGIS spatial joins, translated to DuckDB" to new page `SQL.md` (related: Data).
+  - Added a back-link to `Data.md`. Added `SQL.md` to `index.md` and to the `mkdocs.yml` nav.
+  - Updated Latest Finds (SQL, Remote Sensing, Agriculture).
+  - Moved source to `processed/2026-11-18_New_Notes_2.md` and created a new empty `raw/New_Notes.md`.

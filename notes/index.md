@@ -7,9 +7,9 @@
 
 ## Latest Finds
 
+- [PostGIS spatial joins, translated to DuckDB](https://www.geomermaids.com/cookbook/duckdb-spatial/): A guide to optimizing DuckDB Spatial joins and how they compare to PostGIS. Topic: [[SQL]]
 - [First thermal images from Sentinel-3C radiometer](https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/copernicus/sentinel-3/first-thermal-images-from-sentinel-3c-radiometer): ESA's first thermal and SWIR images from Sentinel-3C's SLSTR radiometer. Topic: [[Remote_Sensing]]
 - [agribound](https://github.com/montimaj/agribound): A Python toolkit for delineating agricultural field boundaries from satellite imagery. Topic: [[Agriculture]]
-- [Groundsource: A Dataset of Flood Events from News](https://zenodo.org/records/18647054): An open dataset of about 2.6M flood events taken from news reports. Topic: [[Climate_Change]]
 
 ## Topics
 
@@ -19,6 +19,7 @@
 - [[Deep_Learning]]: Deep learning models, including foundation and segmentation models.
 - [[Embeddings]]: Vector embeddings, including Earth/geospatial embedding products.
 - [[Python]]: Python packages, libraries, and tooling.
+- [[SQL]]: SQL databases and query engines, including spatial SQL with DuckDB and PostGIS.
 
 ### Thematic Topics
 
