@@ -22,3 +22,4 @@
   - Restructured `index.md`: new "Latest Finds" section above, existing content moved under "Topics".
   - Merged the "Update the Website" section into `CLAUDE.md`.
 - **2026-11-18** | Source: setup | Added Obsidian workspace state files (`.obsidian/workspace.json`, `.obsidian/workspace-mobile.json`) to `.gitignore`.
+- **2026-11-18** | Source: setup | Published the vault to github.com/elagoudakis/personal-notes (GitHub Pages via Actions). Set `site_url` in `mkdocs.yml` to https://dscape.gr/personal-notes/ to match the account custom domain.
